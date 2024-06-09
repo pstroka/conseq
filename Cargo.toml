@@ -7,5 +7,6 @@ version = "0.0.1"
 edition = "2021"
 license = "MIT OR Apache-2.0"
 description = "Macro to conditionally repeat a piece of code in a sequence."
+repository = "https://github.com/pstroka/conseq"
 
 [dependencies]
